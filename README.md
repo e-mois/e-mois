@@ -15,7 +15,7 @@ My name is Eugene. I am web-developer from Moscow.
 
 ### My contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](htttps://t.me/eugene_mois)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eugene_mois)
 
 
 
