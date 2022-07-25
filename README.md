@@ -1,5 +1,5 @@
-## Hi there 👋
-My name is Eugene. I am web-developer from Moscow.
+## Frontend Developer
+My name is Eugene. I am Frontend developer from Moscow.
 
 ### My skills
 
@@ -22,6 +22,7 @@ My name is Eugene. I am web-developer from Moscow.
 ### My contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eugene_mois)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugen.moiseev@gmail.com)
 
 
 
